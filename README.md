@@ -1,4 +1,4 @@
-# Stax
+# stax
 
 `stax` is a command-line tool for managing a text stack (FILO), supporting operations like push and pop. It's designed for professionals and thinkers who delve into complex projects, providing a simple way to manage the flow of thoughts and context.
 
